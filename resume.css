@@ -1,0 +1,64 @@
+body {
+	font-size:16px; 
+	font-family: Arial, sans-serif;
+	background-image:url("paperbackground.png");
+}
+
+h2 {
+	border-bottom: 1px solid #999;
+}
+
+
+.maincontainer {
+	margin-top: 20px;
+	margin-left:200px;
+	margin-right:200px;
+}
+
+
+
+.heading h2 {
+	text-transform: uppercase;
+}
+
+
+
+.MSB p{
+	margin-left: 20px;
+	font-size: 18px;
+	font-style: bold;
+}
+
+
+.UniversityMinnesota p{
+	margin-left: 20px;
+	font-size: 18px;
+	font-style: bold;
+}
+
+
+.JET p{
+	margin-left: 20px;
+	font-size: 18px;
+	font-style: bold;
+}
+
+
+
+.date {
+	float:right;
+}
+
+#snapshot {
+	font-style: italic;
+}
+
+h3 {
+	padding-bottom: -20px;
+	margin-bottom: -20px;
+}
+
+.education p{
+	margin-left: 20px;
+}
+
