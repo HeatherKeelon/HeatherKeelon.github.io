@@ -43,34 +43,17 @@ img {
 	transform: translateY(-20px);
 }
 
-
-.personalinfo h2 {
+header h2 {
+	border: none;
 	text-transform: uppercase;
 }
 
-
-
-.MSB p{
+article p {
+	font-style: italic;
 	margin-left: 20px;
 	font-size: 18px;
 	font-style: bold;
 }
-
-
-.UniversityMinnesota p{
-	margin-left: 20px;
-	font-size: 18px;
-	font-style: bold;
-}
-
-
-.JET p{
-	margin-left: 20px;
-	font-size: 18px;
-	font-style: bold;
-}
-
-
 
 .date {
 	float:right;
@@ -85,18 +68,3 @@ img {
 	margin-left: 20px;
 }
 
-header h2 {
-	border: none;
-}
-
-.MSB p {
-	font-style: italic;
-}
-
-.UniversityMinnesota p {
-	font-style: italic;
-}
-
-.JET p {
-	font-style: italic;
-}
