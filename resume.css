@@ -5,20 +5,46 @@ body {
 	background-color:#ffffcc;
 }
 
+main {
+	background-color: #ffffff;
+	margin-top: 20px;
+	margin-left:200px;
+	margin-right:200px;
+	padding: 20px;
+}
+
 h2 {
 	border-bottom: 1px solid #999;
 }
 
+h3 {
+	padding-bottom: -20px;
+	margin-bottom: -20px;
+}
 
-.maincontainer {
-	margin-top: 20px;
-	margin-left:200px;
-	margin-right:200px;
+h4 {
+	padding-bottom: -20px;
+	margin-bottom: -20px;
+}
+
+a {
+	color: #00CC00;
+}
+
+a:hover {
+	color: #800000;
+}
+
+img {
+	display: inline;
+	float: right;
+	margin-right: 90px;
+	box-shadow: 1px 2px 20px #000;
+	transform: translateY(-20px);
 }
 
 
-
-.heading h2 {
+.personalinfo h2 {
 	text-transform: uppercase;
 }
 
@@ -55,12 +81,22 @@ h2 {
 }
 
 
-h3 {
-	padding-bottom: -20px;
-	margin-bottom: -20px;
-}
-
 .education p{
 	margin-left: 20px;
 }
 
+header h2 {
+	border: none;
+}
+
+.MSB p {
+	font-style: italic;
+}
+
+.UniversityMinnesota p {
+	font-style: italic;
+}
+
+.JET p {
+	font-style: italic;
+}
